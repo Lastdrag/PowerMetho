@@ -1,4 +1,4 @@
-from PyQt5 import Qtcore, qtgui, Qtwidgets
+import sys 
+from PyQt5.QtWidgets import QApplication, QMainWindow
 
 
-print("hola")
